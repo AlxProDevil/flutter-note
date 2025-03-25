@@ -1,6 +1,6 @@
-# todolist
+# flutter note
 
-A new Flutter project.
+(https://youtu.be/5G_slBoLILc)
 
 ## Getting Started
 
